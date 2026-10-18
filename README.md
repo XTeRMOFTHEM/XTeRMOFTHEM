@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:DB2777&height=220&section=header&text=XTeRMOFTHEM&fontSize=58&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20Game%20Dev%20Specialist&descSize=18&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:DB2777&height=220&section=header&text=Saman&fontSize=58&fontColor=ffffff&animation=twinkling&desc=aka%20XTeRMOFTHeM%20%E2%80%A2%20AI%20%E2%80%A2%20Game%20Dev%20Specialist&descSize=18&descAlignY=68" width="100%" alt="banner" />
 </div>
 
 <div align="center">
 
-**سلام! خوش اومدی به پروفایلم 👋**
+**Hi there, welcome to my profile! 👋 — I'm Saman, aka `XTeRMOFTHeM`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=AI+%26+Game+Dev+Specialist;Python+%E2%80%A2+Dart+%E2%80%A2+C%23+%E2%80%A2+Unity;Building+RAVI+%F0%9F%9A%80+%E2%80%94+a+realtime+messenger;Databases+are+my+playground+%F0%9F%97%84%EF%B8%8F;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Saman+%E2%80%A2+aka+XTeRMOFTHeM;AI+%26+Game+Dev+Specialist;Python+%E2%80%A2+Dart+%E2%80%A2+C%23+%E2%80%A2+Unity;Building+RAVI+%F0%9F%9A%80+%E2%80%94+a+realtime+messenger;Databases+are+my+playground+%F0%9F%97%84%EF%B8%8F;Always+learning+something+new" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,8 @@
 ### 🚀 About me
 
 ```yaml
-name: XTeRMOFTHEM
+name: Saman
+alias: XTeRMOFTHeM
 role: AI & Game Dev Specialist
 focus: [AI/ML, Game Development, Mobile & Web Apps]
 languages: [Python, Dart, C#, JavaScript]
@@ -115,14 +116,14 @@ fun_fact: "I talk to databases more than to people 🗄️"
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=XTeRMOFTHEM&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=7C3AED" />
-        <img src="https://github-readme-stats.vercel.app/api?username=XTeRMOFTHEM&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6D28D9&text_color=24292F&icon_color=6D28D9" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=XTeRMOFTHEM&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7C3AED&amp;text_color=C9D1D9&amp;icon_color=7C3AED" />
+        <img src="https://github-readme-stats.vercel.app/api?username=XTeRMOFTHEM&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=6D28D9&amp;text_color=24292F&amp;icon_color=6D28D9" alt="GitHub stats" />
       </picture>
     </td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XTeRMOFTHEM&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTeRMOFTHEM&layout=compact&hide_border=true&bg_color=ffffff&title_color=6D28D9&text_color=24292F" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XTeRMOFTHEM&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7C3AED&amp;text_color=C9D1D9" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTeRMOFTHEM&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=6D28D9&amp;text_color=24292F" alt="Top languages" />
       </picture>
     </td>
   </tr>
@@ -131,14 +132,14 @@ fun_fact: "I talk to databases more than to people 🗄️"
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=XTeRMOFTHEM&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED" />
-  <img src="https://streak-stats.demolab.com?user=XTeRMOFTHEM&hide_border=true&background=ffffff&ring=6D28D9&fire=EA580C&currStreakLabel=6D28D9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=XTeRMOFTHEM&amp;hide_border=true&amp;background=0D1117&amp;ring=7C3AED&amp;fire=F97316&amp;currStreakLabel=7C3AED" />
+  <img src="https://streak-stats.demolab.com?user=XTeRMOFTHEM&amp;hide_border=true&amp;background=ffffff&amp;ring=6D28D9&amp;fire=EA580C&amp;currStreakLabel=6D28D9" alt="Streak stats" />
 </picture>
 
 <br/>
 
 <a href="https://github.com/XTeRMOFTHEM?tab=repositories">
-  <img src="https://github-profile-trophy.vercel.app/?username=XTeRMOFTHEM&no-frame=true&row=1&column=7&margin-w=8&theme=discord" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XTeRMOFTHEM&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8&amp;theme=discord" alt="Trophies" />
 </a>
 
 </div>
@@ -160,10 +161,10 @@ fun_fact: "I talk to databases more than to people 🗄️"
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=XTeRMOFTHEM&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=XTeRMOFTHEM&amp;color=7C3AED&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile views" />
 
-<a href="https://github.com/XTeRMOFTHEM"><img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/XTeRMOFTHEM"><img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:DB2777&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:DB2777&height=140&section=footer" width="100%" alt="footer" />
 
 </div>
