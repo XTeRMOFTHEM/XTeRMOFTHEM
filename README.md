@@ -36,7 +36,7 @@ fun_fact: "I talk to databases more than to people 🗄️"
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dart,js,ts,html,css,flutter,unity,nodejs,express,fastapi,android,github&amp;perline=7&amp;theme=dark" alt="languages, mobile, game dev &amp; web" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dart,js,ts,html,css,flutter,unity,nodejs,express,fastapi,github&amp;perline=7&amp;theme=dark" alt="languages, mobile, game dev &amp; web" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,tensorflow,pytorch,docker,linux,git,vscode,androidstudio,postman&amp;perline=7&amp;theme=dark" alt="databases, AI &amp; tools" />
 </div>
@@ -143,12 +143,6 @@ fun_fact: "I talk to databases more than to people 🗄️"
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=XTeRMOFTHEM&amp;hide_border=true&amp;background=0D1117&amp;ring=7C3AED&amp;fire=F97316&amp;currStreakLabel=7C3AED" />
   <img src="https://streak-stats.demolab.com?user=XTeRMOFTHEM&amp;hide_border=true&amp;background=ffffff&amp;ring=6D28D9&amp;fire=EA580C&amp;currStreakLabel=6D28D9" alt="Streak stats" />
 </picture>
-
-<br/>
-
-<a href="https://github.com/XTeRMOFTHEM?tab=repositories">
-  <img src="https://github-profile-trophy.vercel.app/?username=XTeRMOFTHEM&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8&amp;theme=discord" alt="Trophies" />
-</a>
 
 </div>
 
