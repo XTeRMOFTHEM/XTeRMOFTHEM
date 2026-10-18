@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:DB2777&height=220&section=header&text=Saman&fontSize=58&fontColor=ffffff&animation=twinkling&desc=aka%20XTeRMOFTHeM%20%E2%80%A2%20AI%20%E2%80%A2%20Game%20Dev%20Specialist&descSize=18&descAlignY=68" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:DB2777&height=220&section=header&text=XTeRMOFTHeM&fontSize=58&fontColor=ffffff&animation=twinkling" width="100%" alt="banner" />
 </div>
 
 <div align="center">
@@ -34,6 +34,14 @@ fun_fact: "I talk to databases more than to people 🗄️"
 ---
 
 ### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,dart,js,ts,html,css,flutter,unity,nodejs,express,fastapi,android,github&amp;perline=7&amp;theme=dark" alt="languages, mobile, game dev &amp; web" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,tensorflow,pytorch,docker,linux,git,vscode,androidstudio,postman&amp;perline=7&amp;theme=dark" alt="databases, AI &amp; tools" />
+</div>
+
+<br/>
 
 <h4 align="center">⚙️ Languages</h4>
 
